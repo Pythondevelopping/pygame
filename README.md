@@ -50,7 +50,7 @@ link:https://www.youtube.com/watch?v=ooITOxbYVTo
 
 # license
 
-**you have the right to use the code and assets for your personal projects only**
+**you have the right to use the code for your personal projects only**
 
 
 
