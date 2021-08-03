@@ -31,7 +31,7 @@ you have a window
 
 you can play by using those keyboard keys
 
-
+! [img_1.png](https://tse1.mm.bing.net/th?id=OIP.ZbUUZy8-nXkVxP6nZjKsTgAAAA&pid=Api&P=0&w=239&h=160)
 
 #  assets
 
